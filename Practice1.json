@@ -22,6 +22,13 @@
     {"source": "Alternate 4", "target": "Alternate 5", "type":"most", "value": 4},
     {"source": "Alternate 4", "target": "Alternate 7", "type":"most", "value": 4},
     {"source": "Alternate 5", "target": "Alternate 6", "type":"most", "value": 4},
-    {"source": "Alternate 6", "target": "Alternate 7", "type":"most", "value": 4}
+    {"source": "Alternate 6", "target": "Alternate 7", "type":"most", "value": 4},
+    {"source": "Alternate 11", "target": "Alternate 12", "type":"least", "value": 4},
+    {"source": "Alternate 12", "target": "Alternate 13", "type":"least", "value": 4},
+    {"source": "Alternate 13", "target": "Alternate 14", "type":"least", "value": 4},
+    {"source": "Alternate 14", "target": "Alternate 15", "type":"least", "value": 4},
+    {"source": "Alternate 14", "target": "Alternate 17", "type":"least", "value": 4},
+    {"source": "Alternate 15", "target": "Alternate 16", "type":"least", "value": 4},
+    {"source": "Alternate 16", "target": "Alternate 17", "type":"least", "value": 4}
   ]
 }
