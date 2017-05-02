@@ -30,5 +30,18 @@
  
  <footer>
  </footer>
+
+ <!-- scripts copied in from bioseq index -->
+   <!-- Placed at the end of the document so the pages load faster -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+    <script src="./bootstrap/js/bootstrap.min.js"></script>
+    <script src="./bootstrap/js/accordion.js"></script>
+  <!--next script loads navbar from "navbar.html" to the location/id "navbar" above-->
+   <script type="text/javascript">
+    $(document).ready(function(){
+    $('#navbar').load('./	navbar.html').trigger("create");
+    });
+   </script>
+  <!-- end navbar load script -->
  
  </html>
