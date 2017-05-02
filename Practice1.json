@@ -6,7 +6,14 @@
     {"id": "Alternate 4", "group": 1},
     {"id": "Alternate 5", "group": 1},
     {"id": "Alternate 6", "group": 1},
-    {"id": "Alternate 7", "group": 1}
+    {"id": "Alternate 7", "group": 1},
+    {"id": "Alternate 11", "group": 2},
+    {"id": "Alternate 12", "group": 2},
+    {"id": "Alternate 13", "group": 2},
+    {"id": "Alternate 14", "group": 2},
+    {"id": "Alternate 15", "group": 2},
+    {"id": "Alternate 16", "group": 2},
+    {"id": "Alternate 17", "group": 2}
   ],
   "links": [
     {"source": "Alternate 1", "target": "Alternate 2", "type":"most", "value": 4},
