@@ -2,23 +2,19 @@
   "nodes": [
     {"id": "Alternate 1", "group": 1},
     {"id": "Alternate 2", "group": 1},
-    {"id": "Alternate 3", "group": 2},
-    {"id": "Alternate 4", "group": 2},
+    {"id": "Alternate 3", "group": 1},
+    {"id": "Alternate 4", "group": 1},
     {"id": "Alternate 5", "group": 1},
-    {"id": "Alternate 6", "group": 1}
+    {"id": "Alternate 6", "group": 1},
+    {"id": "Alternate 7", "group": 1}
   ],
   "links": [
-    {"source": "Alternate 1", "target": "Alternate 3", "type":"most", "value": 4},
-    {"source": "Alternate 1", "target": "Alternate 4", "type":"least", "value": 4},
-    {"source": "Alternate 2", "target": "Alternate 5", "type":"most", "value": 4},
-    {"source": "Alternate 2", "target": "Alternate 1", "type":"least", "value": 4},
-    {"source": "Alternate 2", "target": "Alternate 3", "type":"least", "value": 16},
-    {"source": "Alternate 3", "target": "Alternate 4", "type":"most", "value": 16},
+    {"source": "Alternate 1", "target": "Alternate 2", "type":"most", "value": 4},
+    {"source": "Alternate 2", "target": "Alternate 3", "type":"most", "value": 4},
+    {"source": "Alternate 3", "target": "Alternate 4", "type":"most", "value": 4},
     {"source": "Alternate 4", "target": "Alternate 5", "type":"most", "value": 4},
-    {"source": "Alternate 4", "target": "Alternate 1", "type":"least", "value": 4},
-    {"source": "Alternate 5", "target": "Alternate 6", "type":"most", "value": 16},
-    {"source": "Alternate 1", "target": "Alternate 1", "type":"least", "value": 4},
-    {"source": "Alternate 6", "target": "Alternate 3", "type":"least", "value": 4}
-
+    {"source": "Alternate 4", "target": "Alternate 7", "type":"most", "value": 4},
+    {"source": "Alternate 5", "target": "Alternate 6", "type":"most", "value": 4},
+    {"source": "Alternate 6", "target": "Alternate 7", "type":"most", "value": 4},
   ]
 }
