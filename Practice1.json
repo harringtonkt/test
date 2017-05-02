@@ -15,6 +15,6 @@
     {"source": "Alternate 4", "target": "Alternate 5", "type":"most", "value": 4},
     {"source": "Alternate 4", "target": "Alternate 7", "type":"most", "value": 4},
     {"source": "Alternate 5", "target": "Alternate 6", "type":"most", "value": 4},
-    {"source": "Alternate 6", "target": "Alternate 7", "type":"most", "value": 4},
+    {"source": "Alternate 6", "target": "Alternate 7", "type":"most", "value": 4}
   ]
 }
