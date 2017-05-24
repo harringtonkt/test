@@ -6,6 +6,7 @@ body {
 
 
 /* copy from bioseq's custom.css on 5/24/17 */
+/* seemingly did nothing? Navbar not showing on ./index.html and is showing no formatting on ./vcffasta.html (did just realize that the bioseq import page is b/c haven't chagned ex. ref to this css yet */
 
 @media (max-width: 767px) {
   .navbar-default .navbar-nav .open .dropdown-menu > li > a {
